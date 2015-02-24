@@ -1,0 +1,6 @@
+﻿Desktop app to use goo.gl service to shortcut links or clipboard links automatically
+menu to the tray icon to shortcut the link in the clipboard <Shorten Me>
+any link copied to the clipboard is automatically shortened
+
+Check goo.gl api
+
