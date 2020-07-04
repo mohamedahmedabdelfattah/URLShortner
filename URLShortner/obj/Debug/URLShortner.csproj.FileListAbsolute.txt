@@ -9,3 +9,14 @@ E:\Mohamed\College\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.pdb
 E:\Mohamed\College\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.AboutFrm.resources
 E:\Mohamed\Career\Coding\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.exe
 E:\Mohamed\Career\Coding\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.pdb
+D:\Programming\Projects\URLShortner\URLShortner\bin\Debug\URLShortner.exe
+D:\Programming\Projects\URLShortner\URLShortner\bin\Debug\URLShortner.pdb
+D:\Programming\Projects\URLShortner\URLShortner\bin\Debug\Google.Apis.Urlshortener.v1.dll
+D:\Programming\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.AboutFrm.resources
+D:\Programming\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.MainFrm.resources
+D:\Programming\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.Properties.Resources.resources
+D:\Programming\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.csproj.GenerateResource.cache
+D:\Programming\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.csproj.CopyComplete
+D:\Programming\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.exe
+D:\Programming\Projects\URLShortner\URLShortner\obj\Debug\URLShortner.pdb

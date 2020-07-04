@@ -7,3 +7,15 @@ E:\Mohamed\College\Projects\URLShortner\URLShortner\obj\Release\URLShortner.cspr
 E:\Mohamed\College\Projects\URLShortner\URLShortner\obj\Release\URLShortner.exe
 E:\Mohamed\College\Projects\URLShortner\URLShortner\obj\Release\URLShortner.pdb
 E:\Mohamed\College\Projects\URLShortner\URLShortner\obj\Release\URLShortner.AboutFrm.resources
+D:\Programming\Projects\URLShortner\URLShortner\bin\Release\URLShortner.exe
+D:\Programming\Projects\URLShortner\URLShortner\bin\Release\URLShortner.pdb
+D:\Programming\Projects\URLShortner\URLShortner\bin\Release\Google.Apis.Urlshortener.v1.dll
+D:\Programming\Projects\URLShortner\URLShortner\obj\Release\URLShortner.csprojAssemblyReference.cache
+D:\Programming\Projects\URLShortner\URLShortner\obj\Release\URLShortner.AboutFrm.resources
+D:\Programming\Projects\URLShortner\URLShortner\obj\Release\URLShortner.MainFrm.resources
+D:\Programming\Projects\URLShortner\URLShortner\obj\Release\URLShortner.Properties.Resources.resources
+D:\Programming\Projects\URLShortner\URLShortner\obj\Release\URLShortner.csproj.GenerateResource.cache
+D:\Programming\Projects\URLShortner\URLShortner\obj\Release\URLShortner.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\URLShortner\URLShortner\obj\Release\URLShortner.csproj.CopyComplete
+D:\Programming\Projects\URLShortner\URLShortner\obj\Release\URLShortner.exe
+D:\Programming\Projects\URLShortner\URLShortner\obj\Release\URLShortner.pdb
